@@ -1,0 +1,2 @@
+# meta-azure
+Azure metadata
